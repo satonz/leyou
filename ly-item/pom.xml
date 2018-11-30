@@ -16,6 +16,6 @@
         <module>ly-item-interface</module>
         <module>ly-item-service</module>
     </modules>
-
+    <!--打包方式-->
     <packaging>pom</packaging>
 </project>
