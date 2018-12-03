@@ -14,7 +14,8 @@ import org.springframework.web.filter.CorsFilter;
 public class GlobalCorsConfig {
     /**
      *
-     * 功能描述: 
+     * 功能描述:
+     * 用于处理跨域请求
      *
      * @param: 
      * @return: 
